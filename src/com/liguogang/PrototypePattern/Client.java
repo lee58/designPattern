@@ -1,4 +1,5 @@
 package com.liguogang.PrototypePattern;
+
 /**
 * @Description: 客户类
 * @Author:      LiGuoGang
