@@ -19,5 +19,8 @@ public class Client {
         // 复制原型对象
         ConcretePrototypeB cloneTypeB = prototypeB.clone();
         System.out.println(cloneTypeB);
+
+        System.out.println(cloneTypeA.getClass());
+        System.out.println(prototypeA.getClass());
     }
 }
